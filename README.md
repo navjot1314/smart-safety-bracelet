@@ -50,3 +50,6 @@ Prototype completed and tested.
 - Improved power management and battery optimization
 - Encrypted LoRa communication
 - Integration with multiple receiver nodes
+
+## System Diagram
+![System Architecture](docs/)
