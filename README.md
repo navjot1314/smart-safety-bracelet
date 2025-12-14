@@ -52,4 +52,4 @@ Prototype completed and tested.
 - Integration with multiple receiver nodes
 
 ## System Diagram
-![System Architecture](docs/)
+![System Architecture](docs/ESP32C3(2).png)
